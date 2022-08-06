@@ -1,0 +1,11 @@
+1. Build Bulk Structure
+   1.1 lattice parameter of unit cell of bulk structure
+2. Cut surface
+   2.1 cut (110) surface from (100) surface, tool is VESTA.
+       transformation matrix is (0 -1 1
+                                 0  1 1
+                                 1  0 0)
+   2.2 be attention to the termination. do the test and literature review to check which termination is most stable.
+   2.3 The top and bottom surface should be same.
+              
+       
